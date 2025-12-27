@@ -1,0 +1,2 @@
+# Node.js only - no external dependencies
+# Because shame should be dependency-free
